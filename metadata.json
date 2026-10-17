@@ -1,0 +1,6 @@
+{
+  "name": "PersonProof Digital Guide - สถาบันนิติเวชวิทยา รพ.ตร.",
+  "description": "คู่มือดิจิทัลต้นแบบเพื่อสนับสนุนกระบวนการปฏิบัติงานด้านการตรวจพิสูจน์หลักฐานเกี่ยวกับบุคคล สถาบันนิติเวชวิทยา โรงพยาบาลตำรวจ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
